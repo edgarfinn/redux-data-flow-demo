@@ -1,6 +1,15 @@
 # redux-data-flow-demo
 A quick and basic demo of the flow of data through redux and react
 
+Installation instructions:
+
+```bash
+$ git clone https://github.com/edgarfinn/redux-data-flow-demo.git
+$ cd redux-data-flow-demo
+$ npm install
+$ npm start
+```
+
 Action data flow:
 
 1) A user event / interaction triggers an action creator, passing in any relevant information pertaining to the action occurring.
